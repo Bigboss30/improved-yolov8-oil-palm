@@ -1,0 +1,6 @@
+/datasets
+/runs
+/testset
+/wandb
+/Palm-Detection-4
+/*.pt
